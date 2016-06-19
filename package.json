@@ -1,0 +1,19 @@
+{
+  "name": "sct-runtime",
+  "version": "1.0.0",
+  "description": "Runtime for sct template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riim/sct-runtime.git"
+  },
+  "author": "Dmitry Vibe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Riim/sct-runtime/issues"
+  },
+  "homepage": "https://github.com/Riim/sct-runtime#readme"
+}
